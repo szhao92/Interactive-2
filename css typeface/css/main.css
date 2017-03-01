@@ -1,0 +1,584 @@
+body{
+	 background: black;
+}
+#container{
+	        position: relative;
+	        height: 1900px;
+	        width: 800px;
+	        margin-left: 350px;
+	        margin-top: 100px;
+}
+.pic{
+	  margin: 30px;
+	  position: absolute;
+
+}
+.A{
+	float: left;
+	width: 110px;
+	height: 120px;
+    position: relative;
+    margin: 30px;
+
+}
+.A0{
+	float: left;
+	width: 110px;
+	height: 120px;
+    position: relative;
+    margin-left:-80px;
+    margin-top:10px;
+    z-index: 
+1;
+
+
+}
+.A1{
+	float: left;
+	width: 110px;
+	height: 120px;
+    margin-left:-95px;
+    margin-top:15px;
+    z-index: 2;
+
+
+}
+.A2{
+	float: left;
+	width: 110px;
+	height: 120px;
+    margin-left:-95px;
+    margin-top:10px;
+    z-index: 2;
+    
+
+
+}
+.A3{
+	float: left;
+	width: 110px;
+	height: 120px;
+    margin-left:-95px;
+    margin-top:5px;
+    z-index: 2;
+
+
+}
+.A4{
+	float: left;
+	width: 110px;
+	height: 120px;
+    margin-left:-95px;
+    margin-top:0px;
+    z-index: 2;
+
+
+}
+
+.B{
+	float: left;
+	width: 110px;
+	height: 120px;
+    position: relative;
+    margin: 30px;
+
+}
+.B0{
+	float: left;
+	width: 110px;
+	height: 120px;
+    position: relative;
+    margin-left:-125px;
+    margin-top: 20px;
+}
+.B1{
+	float: left;
+	width: 110px;
+	height: 120px;
+    position: relative;
+    margin-left:-115px;
+    margin-top: 10px;
+}
+
+
+.B2{
+	float: left;
+	width: 110px;
+	height: 120px;
+    position: relative;
+    margin-left:-105px;
+    margin-top: 5px;
+
+}
+.B3{
+	float: left;
+	width: 110px;
+	height: 120px;
+    position: relative;
+    margin-left:-90px;
+    margin-top: 0px;
+
+
+}
+.B4{
+	float: left;
+	width: 110px;
+	height: 120px;
+    position: relative;
+    margin-left:-90px;
+    margin-top: -8px;
+
+}
+.C{
+	float: left;
+	width: 110px;
+	height: 120px;
+    position: relative;
+    margin: 30px;
+
+}
+.D{
+	float: left;
+	width: 110px;
+	height: 120px;
+    position: relative;
+    margin: 30px;
+
+}
+.E{
+	float: left;
+	width: 110px;
+	height: 120px;
+    position: relative;
+    margin: 30px;
+
+
+}
+.F{
+	float: left;
+	width: 110px;
+	height: 120px;
+    position: relative;
+    margin: 30px;
+
+}
+.G{
+	float: left;
+	width: 110px;
+	height: 120px;
+    position: relative;
+    margin: 30px;
+
+}
+.H{
+	float: left;
+	width: 110px;
+	height: 120px;
+    position: relative;
+    margin: 30px;
+
+}
+.I{
+	float: left;
+	width: 110px;
+	height: 120px;
+    position: relative;
+    margin: 30px;
+
+}
+.J{
+	float: left;
+	width: 110px;
+	height: 120px;
+    position: relative;
+    margin: 30px;
+
+}
+
+.K{
+	float: left;
+	width: 110px;
+	height: 120px;
+    position: relative;
+    margin: 30px;
+
+}
+.L{
+	float: left;
+	width: 110px;
+	height: 120px;
+    position: relative;
+    margin: 30px;
+
+}
+
+.M{
+	float: left;
+	width: 110px;
+	height: 120px;
+    position: relative;
+    margin: 30px;
+
+}
+.N{
+	float: left;
+	width: 110px;
+	height: 120px;
+    position: relative;
+    margin: 30px;
+
+}
+.O{
+	float: left;
+	width: 110px;
+	height: 120px;
+    position: relative;
+    margin: 30px;
+
+}
+.P{
+	float: left;
+	width: 110px;
+	height: 120px;
+    position: relative;
+    margin: 30px;
+
+}
+.Q{
+	float: left;
+	width: 110px;
+	height: 120px;
+    position: relative;
+    margin: 30px;
+
+}
+.R{
+	float: left;
+	width: 110px;
+	height: 120px;
+    position: relative;
+    margin: 30px;
+
+}
+.S{
+	float: left;
+	width: 110px;
+	height: 120px;
+    position: relative;
+    margin: 30px;
+
+}.T{
+	float: left;
+	width: 110px;
+	height: 120px;
+    position: relative;
+    margin: 30px;
+
+}
+.U{
+	float: left;
+	width: 110px;
+	height: 120px;
+    position: relative;
+    margin: 30px;
+
+}
+.V{
+	float: left;
+	width: 110px;
+	height: 120px;
+    position: relative;
+    margin: 30px;
+
+}
+.W{
+	float: left;
+	width: 110px;
+	height: 120px;
+    position: relative;
+    margin: 30px;
+    transform: rotate(180.0deg);
+
+}
+.X{
+	float: left;
+	width: 110px;
+	height: 120px;
+    position: relative;
+    margin: 30px;
+
+}
+.Y{
+	float: left;
+	width: 110px;
+	height: 120px;
+    position: relative;
+    margin: 30px;
+
+}
+.Z{
+	float: left;
+	width: 110px;
+	height: 120px;
+    position: relative;
+    margin: 30px;
+
+}
+
+.ONE{
+	float: left;
+	width: 110px;
+	height: 120px;
+    position: relative;
+    margin: 30px;
+
+}
+
+.TT{
+	float: left;
+	width: 110px;
+	height: 120px;
+    position: relative;
+    margin: 30px;
+
+}
+
+.T3{
+	float: left;
+	width: 110px;
+	height: 120px;
+    position: relative;
+    margin: 30px;
+
+    transform: rotate(180.0deg);
+
+
+}
+.N5{
+	float: left;
+	width: 110px;
+	height: 120px;
+    position: relative;
+    margin: 30px;
+   
+}
+
+.N6{
+	float: left;
+	width: 110px;
+	height: 120px;
+    position: relative;
+    margin: 30px;
+   
+}
+.N7{
+	float: left;
+	width: 110px;
+	height: 120px;
+    position: relative;
+    margin: 30px;
+   
+}
+.N8{
+	float: left;
+	width: 110px;
+	height: 120px;
+    position: relative;
+    margin: 30px;
+   
+}
+.N9{
+	float: left;
+	width: 110px;
+	height: 120px;
+    position: relative;
+    margin: 30px;
+   
+}
+.N0{
+	float: left;
+	width: 110px;
+	height: 120px;
+    position: relative;
+    margin: 30px;
+   
+}
+.QM{
+	float: left;
+	width: 110px;
+	height: 120px;
+    position: relative;
+    margin: 30px;
+   
+}
+.PM{
+	float: left;
+	width: 110px;
+	height: 120px;
+    position: relative;
+    margin: 30px;
+   
+}
+.PM{
+	float: left;
+	width: 110px;
+	height: 120px;
+    position: relative;
+    margin: 30px;
+   
+}
+
+
+
+
+.line1{
+	float: left;
+	width: 2px;
+	height: 172px;
+    position: relative;
+
+	
+}
+
+
+.line2{
+	float: left;
+	
+	width: 2px;
+	height: 172px;
+	
+	position: relative;
+    
+	
+}
+.line3{
+	   float: left;
+	   width: 51px;
+	   height:2px;
+	   background: #ED1C24;
+       position: relative; 
+}
+.line4{
+	   float: left;
+	   width: 2px;
+	   height:172px;
+	   
+       position: relative; 
+}
+.line5{
+	   float: left;
+	   width: 2px;
+	   height:120px;
+	   background: #ED1C24;
+	   position: relative; 
+}
+.line6{
+	   float: left;
+	   width: 53px;
+	   height:2px;
+	   background: #ED1C24;
+	   position: relative; 
+}
+.line7{
+	   float: left;
+	   width: 52px;
+	   height:2px;
+	   background: #ED1C24;
+	   position: relative; 
+}
+.line8{
+	   float: left;
+	   width: 2px;
+	   height:61px;
+	   background: #ED1C24;
+	   position: relative; 
+}
+.line9{
+	   float: left;
+	   width: 2px;
+	   height:61px;
+	  
+	   position: relative; 
+}
+.line10{
+	   float: left;
+	   width: 2px;
+	   height:61px;
+	  
+	   position: relative; 
+}
+
+.line11{
+	   float: left;
+	   width: 80px;
+	   height:2px;
+	   background: #ED1C24;
+	   position: relative; 
+}
+.line12{
+	   float: left;
+	   width: 80px;
+	   height:2px;
+	   background: #ED1C24;
+	   position: relative; 
+}
+.line13{
+	   float: left;
+	   width: 79px;
+	   height:2px;
+	   
+	   position: relative; 
+}
+.line14{
+	   float: left;
+	   width: 80px;
+	   height:2px;
+	   background: #ED1C24;
+	   
+	   position: relative; 
+}
+.line16{
+	   float: left;
+	   width: 2px;
+	   height:70px;
+	   
+	   
+	   position: relative; 
+}
+.line18{
+	   float: left;
+	   width: 2px;
+	   height:120px;
+	   
+	   position: relative; 
+}
+.line17{
+	   float: left;
+	   width: 2px;
+	   height:120px;
+	   
+	   position: relative; 
+}
+.line19{
+	   float: left;
+	   width: 40px;
+	   height:2px;
+	   
+	   
+	   position: relative; 
+}
+.line20{
+	   float: left;
+	   width: 2px;
+	   height:60px;
+	   
+	   
+	   position: relative; 
+}
+.line21{
+	   float: left;
+	   width: 40px;
+	   height:2px;
+	   
+	   position: relative; 
+}
