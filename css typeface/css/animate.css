@@ -1262,72 +1262,136 @@
     -webkit-transform: none;
     transform: none;
   }
-}.fadeIn.A{
+}.fadeIn.SS1{
   -webkit-animation-delay: 0.7s;
   -moz-animation-delay: 0.7s;
   animation-delay: 0.7s;
   
 }
 
-.fadeIn.A0 {
-  -webkit-animation-delay: 1.2s;
-  -moz-animation-delay:1.2s;
-  animation-delay: 1.2s;
-}
-
-.fadeIn.A1 {
-  -webkit-animation-delay: 1.7s;
-  -moz-animation-delay:1.7s;
-  animation-delay: 1.7s;
-}
-.fadeIn.A2 {
-  -webkit-animation-delay: 2.2s;
-  -moz-animation-delay:2.2s;
-  animation-delay: 2.2s;
-}
-.fadeIn.A3 {
-  -webkit-animation-delay: 2.7s;
-  -moz-animation-delay:2.7s;
-  animation-delay: 2.7s;
-}
-.fadeIn.A4{
-  -webkit-animation-delay: 3.2s;
-  -moz-animation-delay:3.2s;
-  animation-delay: 3.2s;
-}
-.fadeIn.B{
+.fadeIn.LL1{
   -webkit-animation-delay: 0.7s;
   -moz-animation-delay: 0.7s;
   animation-delay: 0.7s;
-  
 }
 
-.fadeIn.B0 {
+.fadeIn.II1{
+  -webkit-animation-delay: 0.7s;
+  -moz-animation-delay: 0.7s;
+  animation-delay: 0.7s;
+}
+.fadeIn.NN1{
+  --webkit-animation-delay: 0.7s;
+  -moz-animation-delay: 0.7s;
+  animation-delay: 0.7s;
+}
+.fadeIn.KK1{
+  -webkit-animation-delay: 0.7s;
+  -moz-animation-delay: 0.7s;
+  animation-delay: 0.7s;
+}
+.fadeIn.YY1{
+  -webkit-animation-delay: 0.7s;
+  -moz-animation-delay: 0.7s;
+  animation-delay: 0.7s;
+}
+
+
+.fadeIn.SS2 {
   -webkit-animation-delay: 1.2s;
   -moz-animation-delay:1.2s;
   animation-delay: 1.2s;
 }
 
-.fadeIn.B1 {
+.fadeIn.LL2 {
+  -webkit-animation-delay: 1.2s;
+  -moz-animation-delay:1.2s;
+  animation-delay: 1.2s;
+}
+.fadeIn.II2 {
+  -webkit-animation-delay: 1.2s;
+  -moz-animation-delay:1.2s;
+  animation-delay: 1.2s;
+}
+.fadeIn.NN2{
+  -webkit-animation-delay: 1.2s;
+  -moz-animation-delay:1.2s;
+  animation-delay: 1.2s;
+}
+.fadeIn.KK2{
+  -webkit-animation-delay: 1.2s;
+  -moz-animation-delay:1.2s;
+  animation-delay: 1.2s;
+}
+.fadeIn.YY2{
+  -webkit-animation-delay: 1.2s;
+  -moz-animation-delay:1.2s;
+  animation-delay: 1.2s;
+}
+.fadeIn.SS3 {
   -webkit-animation-delay: 1.7s;
   -moz-animation-delay:1.7s;
   animation-delay: 1.7s;
 }
-.fadeIn.B2 {
+
+.fadeIn.LL3 {
+  -webkit-animation-delay: 1.7s;
+  -moz-animation-delay:1.7s;
+  animation-delay: 1.7s;
+}
+.fadeIn.II3 {
+  -webkit-animation-delay: 1.7s;
+  -moz-animation-delay:1.7s;
+  animation-delay: 1.7s;
+}
+.fadeIn.NN3{
+  -webkit-animation-delay: 1.7s;
+  -moz-animation-delay:1.7s;
+  animation-delay: 1.7s;
+}
+.fadeIn.KK3{
+  -webkit-animation-delay: 1.7s;
+  -moz-animation-delay:1.7s;
+  animation-delay: 1.7s;
+}
+.fadeIn.YY3{
+  -webkit-animation-delay: 1.7s;
+  -moz-animation-delay:1.7s;
+  animation-delay: 1.7s;
+}
+
+.fadeIn.SS4 {
   -webkit-animation-delay: 2.2s;
   -moz-animation-delay:2.2s;
   animation-delay: 2.2s;
 }
-.fadeIn.B3 {
-  -webkit-animation-delay: 2.7s;
-  -moz-animation-delay:2.7s;
-  animation-delay: 2.7s;
+
+.fadeIn.LL4 {
+  -webkit-animation-delay: 2.2s;
+  -moz-animation-delay:2.2s;
+  animation-delay: 2.2s;
 }
-.fadeIn.B4{
-  -webkit-animation-delay: 3.2s;
-  -moz-animation-delay:3.2s;
-  animation-delay: 3.2s;
+.fadeIn.II4 {
+ -webkit-animation-delay: 2.2s;
+  -moz-animation-delay:2.2s;
+  animation-delay: 2.2s;
 }
+.fadeIn.NN4{
+  -webkit-animation-delay: 2.2s;
+  -moz-animation-delay:2.2s;
+  animation-delay: 2.2s;
+}
+.fadeIn.KK4{
+  --webkit-animation-delay: 2.2s;
+  -moz-animation-delay:2.2s;
+  animation-delay: 2.2s;
+}
+.fadeIn.YY4{
+  -webkit-animation-delay: 2.2s;
+  -moz-animation-delay:2.2s;
+  animation-delay: 2.2s;
+}
+
 
 
 
