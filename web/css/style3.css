@@ -1,0 +1,157 @@
+
+#Frame{
+    width: 1700px;
+    height: 950px;
+    border:50px solid black;
+    padding: 0px;
+    margin: 0px;
+    position: absolute;
+    z-index: -11;
+}
+.container1{
+	         width: 1400px;
+	         height: 900px;
+	         position: absolute;
+             overflow:hidden;
+}
+.sq1{
+	  width: 200px;
+	  height: 200px;
+	  background-color:#C6CCCF;
+      margin-left:10px;
+}
+
+
+.sq2{
+	width: 200px;
+	height: 200px;
+	background-color:#FFEB4F;
+    margin-left:600px;
+    margin-top:200px;
+}
+.sq3{
+	width: 200px;
+	height: 200px;
+	background-color:#F23891;
+     margin-left:300px;
+     margin-top: -200px;
+}
+.sq4{
+	width: 200px;
+	height: 200px;
+	background-color:#00A9EB;
+    margin-left:700px;
+    margin-top: -400px;
+    
+}
+.draggable {
+  background-color:none;
+}
+
+html, body { height: 100%; }
+body {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	
+}
+
+body a {
+    text-decoration: none;
+}
+.thumb {
+    display: inline;
+    max-height: 200px;
+    margin-top:330px;
+    margin-left:-830px;
+    position: absolute;
+}
+#thumblist {
+    text-align: center;
+    border-radius: 8px;
+    padding: 0;
+    background: none;
+    z-index:2;
+    position: absolute;
+}
+#thumblist img {
+    border-radius: 8px;
+}
+.description {
+      color: white;
+      text-decoration: none;
+}
+
+/** relevant CSS Below **/
+
+.lightbox {
+    display: none; /**sets the default display to hide the lightbox until it's the :target**/
+    position: fixed; /**the rest of this styling makes the lightbox full screen when selected**/
+    z-index: 999;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    top: 0;
+    left: 0;
+    
+    background: rgba(0,0,0,.8);
+    -moz-transition: opacity .25s ease-in-out;
+    -webkit-transition: opacity .25s ease-in-out;
+	transition: opacity .25s ease-in-out;}
+
+.lightbox img { /**sets the styling of the image in the lightbox**/
+    max-width: 80%;
+    max-height: 90%;
+    text-align: center;
+    -moz-transition: opacity .25s ease-in-out;
+		-webkit-transition: opacity .25s ease-in-out;
+		transition: opacity .25s ease-in-out;	 
+
+   
+    
+}
+.lightbox:target { /**this is where the magic happens. makes the lightbox display when it's the target of a clickable link**/
+    outline: none;
+    display: block;
+    transition: background 0.3s ease;
+}
+.OG{
+	margin-left:0px;
+	margin-top:150px;
+}
+.CR{
+	margin-left:680px;
+	margin-top:-400px;
+}
+.previous { /**styling the left arrow**/
+    position:fixed;
+    left: 4px;
+    top: 40%;
+    width: 40px;
+}
+.exit { /**styling the exit button**/
+    position: fixed;
+    top: 4px;
+    right: 4px;
+    width: 40px;
+}
+.next { /**styling the right arrow**/
+    position: fixed;
+    right: 4px;
+    top: 40%;
+    width: 40px;
+}
+.nextp{
+        margin-left:1422px;
+        margin-top: 705px;
+        z-index: 0;
+}
+
+
+#BT{
+       height:20px;
+       width: 100px;
+       margin-left:-172px;
+       margin-top:430px;
+       position: absolute;
+}

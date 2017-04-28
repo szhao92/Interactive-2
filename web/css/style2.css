@@ -1,0 +1,455 @@
+
+
+#rt{
+	width: 50px;
+	height: 870px;
+	position: absolute;
+    background-color: black;
+    z-index: 2;
+    margin-left:-814px;
+
+}
+#lt{
+	width: 50px;
+	height: 870px;
+	position: absolute;
+    background-color: black;
+    z-index: 2;
+    margin-left:814px;
+
+}
+#Frame{
+    width: 1700px;
+    height: 950px;
+    border: 45px solid black;
+    padding: 0px;
+    margin: 0px;
+    position: absolute;
+    z-index:0;
+}
+.container1{
+	        width:1620px;
+	        height:870px;
+	        position: absolute;
+	        z-index:1;
+	        overflow:hidden;
+	        margin-left:0px;
+}
+.s1{
+	width: 380px;
+	height: 380px;
+	background: #0081D1;
+	-webkit-clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%);
+clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%);
+position: absolute;
+margin-left: 610px;
+margin-top: 210px;
+z-index:0;
+}
+
+
+/* Center the demo */
+html, body { height: 100%; }
+body {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	
+}
+.s2{
+	width: 680px;
+	height: 680px;
+	background: #BC202F;
+	-webkit-clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%);
+clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%);
+position: absolute;
+margin-left: 460px;
+margin-top: 60px;
+z-index:0;
+}
+
+}
+
+/* Center the demo */
+html, body { height: 100%; }
+body {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	
+}
+.s3{
+	width: 980px;
+	height:980px;
+	background: #1F2745;
+	-webkit-clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%);
+clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%);
+position: absolute;
+margin-left:310px;
+margin-top: -90px;
+
+}
+
+/* Center the demo */
+html, body { height: 100%; }
+body {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	
+}
+.s4{
+	width: 1280px;
+	height:1280px;
+	background: #9E7336;
+	-webkit-clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%);
+clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%);
+position: absolute;
+margin-left:160px;
+margin-top: -240px;
+z-index:0;
+}
+}
+
+/* Center the demo */
+html, body { height: 100%; }
+body {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	
+}
+
+.s5{
+	width: 1580px;
+	height:1580px;
+	background: #185763;
+	-webkit-clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%);
+clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%);
+position: absolute;
+margin-left:10px;
+margin-top: -390px;
+z-index:0;
+}
+}
+
+/* Center the demo */
+html, body { height: 100%; }
+body {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	
+}
+.s6{
+	width: 1880px;
+	height:1880px;
+	background: #00658A;
+	-webkit-clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%);
+clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%);
+position: absolute;
+margin-left:-140px;
+margin-top: -540px;
+z-index:0;
+}
+}
+
+/* Center the demo */
+html, body { height: 100%; }
+body {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	
+}
+.s7{
+	width: 2180px;
+	height:2180px;
+	background: #D45D3A;
+	-webkit-clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%);
+clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%);
+position: absolute;
+margin-left:-290px;
+margin-top: -690px;
+z-index:0;
+}
+}
+
+/* Center the demo */
+html, body { height: 100%; }
+body {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	
+}
+.s8{
+	width: 2480px;
+	height:2480px;
+	background: #00658A;
+	-webkit-clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%);
+clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%);
+position: absolute;
+margin-left:-440px;
+margin-top: -840px;
+z-index:0;
+}
+}
+
+/* Center the demo */
+html, body { height: 100%; }
+body {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	
+}
+.s9{
+	width: 2780px;
+	height:2780px;
+	background: #A24D50;
+	-webkit-clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%);
+clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%);
+position: absolute;
+margin-left:-590px;
+margin-top: -990px;
+z-index:0;
+}
+}
+
+/* Center the demo */
+html, body { height: 100%; }
+body {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	
+}
+.s10{
+	width: 3080px;
+	height:3080px;
+	background: #A17E6F;
+	-webkit-clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%);
+clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%);
+position: absolute;
+margin-left:-740px;
+margin-top: -1140px;
+z-index:0;
+}
+}
+
+/* Center the demo */
+html, body { height: 100%; }
+body {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	
+}
+
+.s11{
+	width: 3380px;
+	height:3380px;
+	background: #AA5B56;
+	-webkit-clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%);
+clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%);
+position: absolute;
+margin-left:-890px;
+margin-top: -1280px;
+z-index:0;
+}
+}
+
+/* Center the demo */
+html, body { height: 100%; }
+body {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	
+}
+
+.s12{
+	width: 3680px;
+	height:3680px;
+	background: #E44958;
+	-webkit-clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%);
+clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%);
+position: absolute;
+margin-left:-1040px;
+margin-top: -1440px;
+z-index:0;
+}
+}
+
+/* Center the demo */
+html, body { height: 100%; }
+body {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	
+}
+.s13{
+	width: 3980px;
+	height:3980px;
+	background: #E39D2B;
+	-webkit-clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%);
+clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%);
+position: absolute;
+margin-left:-1190px;
+margin-top: -1590px;
+z-index:0;
+}
+}
+
+/* Center the demo */
+html, body { height: 100%; }
+body {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	
+}
+.s14{
+	width: 4280px;
+	height:4280px;
+	background: #C6AB99;
+	-webkit-clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%);
+clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%);
+position: absolute;
+margin-left:-1340px;
+margin-top: -1740px;
+z-index:0;
+}
+}
+
+/* Center the demo */
+html, body { height: 100%; }
+body {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	
+}
+.s15{
+	width: 4580px;
+	height:4580px;
+	background: #28788E;
+	-webkit-clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%);
+clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%);
+position: absolute;
+margin-left:-1490px;
+margin-top: -1890px;
+z-index:0;
+}
+}
+
+/* Center the demo */
+html, body { height: 100%; }
+body {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	
+}
+
+body a {
+    text-decoration: none;
+}
+.thumb {
+    display: inline;
+    max-height: 200px;
+    margin-top:330px;
+    margin-left:-830px;
+    position: absolute;
+}
+#thumblist {
+    text-align: center;
+    border-radius: 8px;
+    padding: 0;
+    background: none;
+    z-index:2;
+    position: absolute;
+}
+#thumblist img {
+    border-radius: 8px;
+}
+.description {
+      color: white;
+      text-decoration: none;
+}
+
+/** relevant CSS Below **/
+
+.lightbox {
+    display: none; /**sets the default display to hide the lightbox until it's the :target**/
+    position: fixed; /**the rest of this styling makes the lightbox full screen when selected**/
+    z-index: 999;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    top: 0;
+    left: 0;
+    
+    background: rgba(0,0,0,.8);
+    -moz-transition: opacity .25s ease-in-out;
+    -webkit-transition: opacity .25s ease-in-out;
+	transition: opacity .25s ease-in-out;}
+
+.lightbox img { /**sets the styling of the image in the lightbox**/
+    max-width: 80%;
+    max-height: 90%;
+    text-align: center;
+    -moz-transition: opacity .25s ease-in-out;
+		-webkit-transition: opacity .25s ease-in-out;
+		transition: opacity .25s ease-in-out;	 
+
+   
+    
+}
+.lightbox:target { /**this is where the magic happens. makes the lightbox display when it's the target of a clickable link**/
+    outline: none;
+    display: block;
+    transition: background 0.3s ease;
+}
+.OG{
+	margin-left:0px;
+	margin-top:150px;
+}
+.CR{
+	margin-left:680px;
+	margin-top:-400px;
+}
+.previous { /**styling the left arrow**/
+    position:fixed;
+    left: 4px;
+    top: 40%;
+    width: 40px;
+}
+.exit { /**styling the exit button**/
+    position: fixed;
+    top: 4px;
+    right: 4px;
+    width: 40px;
+}
+.next { /**styling the right arrow**/
+    position: fixed;
+    right: 4px;
+    top: 40%;
+    width: 40px;
+}
+.nextp{
+	    margin-left:1407px;
+	    margin-top: 705px;
+	    z-index: 0;
+}
+
+
+#BT{
+	   height:20px;
+	   width: 100px;
+	   margin-left:-157px;
+	   margin-top:430px;
+	   position: absolute;
+}

@@ -1,0 +1,56 @@
+#c1{
+    width:1670px;
+    height:960px; 
+	background-color:black;
+	position: absolute;
+	margin:0;
+}
+
+.text{
+	   height: 500px;
+	   width: 450px;
+	   margin-left: 100px;
+	   margin-top:240px;
+
+}
+.title{
+	font-family: 'Source Sans Pro', sans-serif;
+
+	font-size:54px;
+	text-align:left;
+}
+
+.content{
+	       font-family: 'Quicksand', sans-serif;
+           font-size: 18px;
+	       text-align: left;
+	       margin-top:-50px;
+	       line-height:26px;
+	       
+
+}
+
+img {
+	 height: auto; 
+    width: auto; 
+    max-width: 200px; 
+    max-height: 200px;
+}
+
+.logo{
+	  margin-left:50px;
+	  margin-top:600px;
+	  position: absolute;
+}
+a { 
+    color: white;
+    }
+a:hover {
+    color:#FF2425;
+}
+#back{
+	   width:100px;
+	   height: 100px;
+	   position: absolute;
+	   margin: 70px;
+}
