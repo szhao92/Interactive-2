@@ -79,6 +79,8 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#92ad47', end
 	top: 320px;
 	left: 120px;
 }
+<<<<<<< HEAD
+=======
 #string{
          width: 30px;
     height: 133px;
@@ -100,12 +102,16 @@ clip-path: polygon(49% 0, 51% 0, 51% 100%, 48% 100%);
     top: 180px;
     left: 420px;
 }
+>>>>>>> origin/gh-pages
 #krusty *
 {
     position: absolute;
     box-sizing:content-box;
     -moz-box-sizing:content-box;
+<<<<<<< HEAD
+=======
     opacity: 0.75;
+>>>>>>> origin/gh-pages
 }
 
 
@@ -115,7 +121,10 @@ clip-path: polygon(49% 0, 51% 0, 51% 100%, 48% 100%);
     width: 212px;
     height: 140px; 
     margin: 0 auto;
+<<<<<<< HEAD
+=======
     top:50px;
+>>>>>>> origin/gh-pages
 }
 
 #krusty .head *
@@ -999,7 +1008,11 @@ clip-path: polygon(49% 0, 51% 0, 51% 100%, 48% 100%);
 }
 #shadowB{
     width:90px;
+<<<<<<< HEAD
+    height: 155px;
+=======
     height: 95px;
+>>>>>>> origin/gh-pages
     background: rgba(13,13,13,1);
 background: -moz-linear-gradient(left, rgba(13,13,13,1) 0%, rgba(13,13,13,0.96) 5%, rgba(23,23,23,0.93) 9%, rgba(33,33,33,0.81) 24%, rgba(0,0,0,0.61) 49%, rgba(44,44,44,0.39) 76%, rgba(56,56,56,0.39) 83%, rgba(69,69,69,0.39) 88%, rgba(33,33,33,0.39) 90%, rgba(59,59,59,0.39) 100%);
 background: -webkit-gradient(left top, right top, color-stop(0%, rgba(13,13,13,1)), color-stop(5%, rgba(13,13,13,0.96)), color-stop(9%, rgba(23,23,23,0.93)), color-stop(24%, rgba(33,33,33,0.81)), color-stop(49%, rgba(0,0,0,0.61)), color-stop(76%, rgba(44,44,44,0.39)), color-stop(83%, rgba(56,56,56,0.39)), color-stop(88%, rgba(69,69,69,0.39)), color-stop(90%, rgba(33,33,33,0.39)), color-stop(100%, rgba(59,59,59,0.39)));
@@ -1008,6 +1021,16 @@ background: -o-linear-gradient(left, rgba(13,13,13,1) 0%, rgba(13,13,13,0.96) 5%
 background: -ms-linear-gradient(left, rgba(13,13,13,1) 0%, rgba(13,13,13,0.96) 5%, rgba(23,23,23,0.93) 9%, rgba(33,33,33,0.81) 24%, rgba(0,0,0,0.61) 49%, rgba(44,44,44,0.39) 76%, rgba(56,56,56,0.39) 83%, rgba(69,69,69,0.39) 88%, rgba(33,33,33,0.39) 90%, rgba(59,59,59,0.39) 100%);
 background: linear-gradient(to right, rgba(13,13,13,1) 0%, rgba(13,13,13,0.96) 5%, rgba(23,23,23,0.93) 9%, rgba(33,33,33,0.81) 24%, rgba(0,0,0,0.61) 49%, rgba(44,44,44,0.39) 76%, rgba(56,56,56,0.39) 83%, rgba(69,69,69,0.39) 88%, rgba(33,33,33,0.39) 90%, rgba(59,59,59,0.39) 100%);
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0d0d0d', endColorstr='#3b3b3b', GradientType=1 );
+<<<<<<< HEAD
+-webkit-clip-path: polygon(0 11%, 25% 10%, 75% 74%, 29% 73%);
+clip-path: polygon(0 11%, 25% 10%, 75% 74%, 29% 73%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 300px;
+    left: 220px;
+=======
 -webkit-clip-path: polygon(27% 1%, 57% 64%, 100% 100%, 36% 100%, 24% 91%, 0 0);
 clip-path: polygon(27% 1%, 57% 64%, 100% 100%, 36% 100%, 24% 91%, 0 0);
     justify-content: center;
@@ -1016,6 +1039,7 @@ clip-path: polygon(27% 1%, 57% 64%, 100% 100%, 36% 100%, 24% 91%, 0 0);
      filter: blur(60px) brightness(0.95);
     top: 315px;
     left: 210px;
+>>>>>>> origin/gh-pages
     
 
 }
@@ -1067,6 +1091,16 @@ clip-path: inset(5% 0 15% 0);
     width: 70px;
     height: 80px;
     background: rgba(198,217,143,1);
+<<<<<<< HEAD
+background: -moz-linear-gradient(left, rgba(198,217,143,1) 0%, rgba(198,217,143,1) 28%, rgba(210,223,156,1) 44%, rgba(250,246,203,1) 100%);
+background: -webkit-gradient(left top, right top, color-stop(0%, rgba(198,217,143,1)), color-stop(28%, rgba(198,217,143,1)), color-stop(44%, rgba(210,223,156,1)), color-stop(100%, rgba(250,246,203,1)));
+background: -webkit-linear-gradient(left, rgba(198,217,143,1) 0%, rgba(198,217,143,1) 28%, rgba(210,223,156,1) 44%, rgba(250,246,203,1) 100%);
+background: -o-linear-gradient(left, rgba(198,217,143,1) 0%, rgba(198,217,143,1) 28%, rgba(210,223,156,1) 44%, rgba(250,246,203,1) 100%);
+background: -ms-linear-gradient(left, rgba(198,217,143,1) 0%, rgba(198,217,143,1) 28%, rgba(210,223,156,1) 44%, rgba(250,246,203,1) 100%);
+background: linear-gradient(to right, rgba(198,217,143,1) 0%, rgba(198,217,143,1) 28%, rgba(210,223,156,1) 44%, rgba(250,246,203,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#c6d98f', endColorstr='#faf6cb', GradientType=1 );
+   n(50% 0%, 91% 0, 100% 60%, 75% 100%, 25% 100%, 0 60%, 7% 0);
+=======
 background: rgba(243,226,199,1);
 background: -moz-linear-gradient(left, rgba(243,226,199,1) 0%, rgba(193,158,103,0.89) 13%, rgba(182,141,76,0.63) 45%, rgba(233,212,179,0.45) 67%, rgba(233,212,179,0.18) 100%);
 background: -webkit-gradient(left top, right top, color-stop(0%, rgba(243,226,199,1)), color-stop(13%, rgba(193,158,103,0.89)), color-stop(45%, rgba(182,141,76,0.63)), color-stop(67%, rgba(233,212,179,0.45)), color-stop(100%, rgba(233,212,179,0.18)));
@@ -1075,11 +1109,16 @@ background: -o-linear-gradient(left, rgba(243,226,199,1) 0%, rgba(193,158,103,0.
 background: -ms-linear-gradient(left, rgba(243,226,199,1) 0%, rgba(193,158,103,0.89) 13%, rgba(182,141,76,0.63) 45%, rgba(233,212,179,0.45) 67%, rgba(233,212,179,0.18) 100%);
 background: linear-gradient(to right, rgba(243,226,199,1) 0%, rgba(193,158,103,0.89) 13%, rgba(182,141,76,0.63) 45%, rgba(233,212,179,0.45) 67%, rgba(233,212,179,0.18) 100%);
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f3e2c7', endColorstr='#e9d4b3', GradientType=1 );
+>>>>>>> origin/gh-pages
 clip-path: polygon(50% 0%, 91% 0, 100% 60%, 75% 100%, 25% 100%, 0 60%, 7% 0);
     display: flex;
     justify-content: center;
     align-items: center;
     position: absolute;
+<<<<<<< HEAD
+    top: 260px;
+    left:300px;
+=======
     top: 310px;
     left:460px;
 }
@@ -1275,11 +1314,32 @@ clip-path: ellipse(45% 18% at 52% 45%);
     position: absolute;
     top: 410px;
     left:450px;
+>>>>>>> origin/gh-pages
 }
 
 
 
 
+<<<<<<< HEAD
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=======
 #cupS3{
          width: 160px;
          height:80px;
@@ -1687,3 +1747,4 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a90329', end
     top:150px;
     left:602px; 
 }
+>>>>>>> origin/gh-pages
