@@ -1,21 +1,54 @@
 body{
 	 background: black;
 	align-content: center;
-	width:100%;
-	height:100%;
 	
 }
 
+#head{
+	margin-left:400px;
+	margin-top:200px;
+	position: relative;
 
 
+}
+
+h1{
+	color: white;
+	font-family: 'IBM Plex Mono', monospace;
+	font-weight:400;
+	margin-top:-50px;
+
+}
+p{
+	color:white;
+	font-family: 'IBM Plex Mono', monospace;
+	width:700px;
+	height:auto;
+	line-height:2;
+
+}
+.box{
+	  width:1200px;
+	  height:3px;
+	  background-color:white;
+	  margin-left:-50px;
+	  margin-top:50px;
+}
+.box1{
+	  width:1200px;
+	  height:3px;
+	  background-color:white;
+	  margin-left:-50px;
+	  margin-top:120px;
+}
 #container{
 	        position: relative;
 	        height: 1900px;
 	        width: 700px;
-	        margin-left:200px;
-	        margin-top: 500px;
+	        margin-left:300px;
+	        margin-top:100px;
 	        align-self:center;
-	        zoom:120%;
+	        zoom:150%;
 }
 
 
