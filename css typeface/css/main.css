@@ -15,14 +15,14 @@ body{
 }
 
 h1{
-	color: white;
+	color: black;
 	font-family: 'IBM Plex Mono', monospace;
 	font-weight:400;
 	margin-top:-50px;
 
 }
 p{
-	color:white;
+	color:black;
 	font-family: 'IBM Plex Mono', monospace;
 	width:700px;
 	height:auto;
@@ -32,7 +32,7 @@ p{
 .box{
 	  width:1200px;
 	  height:3px;
-	  background-color:white;
+	  background-color:black;
 	  margin-left:-50px;
 	  margin-top:50px;
 }
