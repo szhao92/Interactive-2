@@ -1,32 +1,33 @@
 body{
 	 background: white;
-	align-content: center;
 	width:100%;
 	height:100px;
+  background-color:black;
+
+
 	
 }
 
 #head{
-	margin-left:100px;
-	margin-top:200px;
+	margin-left:28%;
+	margin-top:35%;
 	position: relative;
 
 
 }
 
-/*h1{
-	color: black;
-	font-family: 'IBM Plex Mono', monospace;
-	font-weight:400;
-	margin-top:-50px;
 
-}
+
 p{
-	color:black;
+	color:white;
 	font-family: 'IBM Plex Mono', monospace;
 	width:700px;
 	height:auto;
 	line-height:2;
+  font-size:16pt;
+  text-align:center;
+  
+
 
 }
 .box{
@@ -42,14 +43,14 @@ p{
 	  background-color:white;
 	  margin-left:-50px;
 	  margin-top:120px;
-}*/
+}
 #container{
 	        position: relative;
 	        height: 1900px;
 	        width: 700px;
-	        margin-left:100px;
-	        margin-top:100px;
-	        align-self:center;
+	        margin-left:20%;
+	        margin-top:20%;
+	        align-content:center;
 	        zoom:150%;
 }
 
@@ -3573,7 +3574,7 @@ margin-top:-123px;
 	height: 120px;
     position: relative;
     margin: 30px;
-   
+    
 }
 
 
@@ -3584,7 +3585,7 @@ margin-top:-123px;
 	width: 2px;
 	height: 172px;
     position: relative;
-
+   stroke-linecap:round;
 	
 }
 
@@ -3594,7 +3595,7 @@ margin-top:-123px;
 	
 	width: 2px;
 	height: 172px;
-	
+	stroke-linecap:round;
 	position: relative;
     
 	
@@ -3605,12 +3606,13 @@ margin-top:-123px;
 	   height:2px;
 	   background: #ED1C24;
        position: relative; 
+       stroke-linecap:round;
 }
 .line4{
 	   float: left;
 	   width: 2px;
 	   height:172px;
-	   
+	   stroke-linecap:round;
        position: relative; 
 }
 .line5{
@@ -3619,6 +3621,7 @@ margin-top:-123px;
 	   height:120px;
 	   background: #ED1C24;
 	   position: relative; 
+     stroke-linecap:round;
 }
 .line6{
 	   float: left;
@@ -3626,6 +3629,7 @@ margin-top:-123px;
 	   height:2px;
 	   background: #ED1C24;
 	   position: relative; 
+     stroke-linecap:round;
 }
 .line7{
 	   float: left;
@@ -3633,6 +3637,7 @@ margin-top:-123px;
 	   height:2px;
 	   background: #ED1C24;
 	   position: relative; 
+     stroke-linecap:round;
 }
 .line8{
 	   float: left;
@@ -3640,19 +3645,20 @@ margin-top:-123px;
 	   height:61px;
 	   background: #ED1C24;
 	   position: relative; 
+     stroke-linecap:round;
 }
 .line9{
 	   float: left;
 	   width: 2px;
 	   height:61px;
-	  
+	  stroke-linecap: round;
 	   position: relative; 
 }
 .line10{
 	   float: left;
 	   width: 2px;
 	   height:61px;
-	  
+	  stroke-linecap: round;
 	   position: relative; 
 }
 
@@ -3662,6 +3668,7 @@ margin-top:-123px;
 	   height:2px;
 	   background: #ED1C24;
 	   position: relative; 
+     stroke-linecap:round;
 }
 .line12{
 	   float: left;
@@ -3669,12 +3676,13 @@ margin-top:-123px;
 	   height:2px;
 	   background: #ED1C24;
 	   position: relative; 
+     stroke-linecap:round;
 }
 .line13{
 	   float: left;
 	   width: 79px;
 	   height:2px;
-	   
+	   stroke-linecap:round;
 	   position: relative; 
 }
 .line14{
@@ -3682,14 +3690,14 @@ margin-top:-123px;
 	   width: 80px;
 	   height:2px;
 	   background: #ED1C24;
-	   
+	   stroke-linecap:round;
 	   position: relative; 
 }
 .line16{
 	   float: left;
 	   width: 2px;
 	   height:70px;
-	   
+	   stroke-linecap:round;
 	   
 	   position: relative; 
 }
@@ -3697,21 +3705,21 @@ margin-top:-123px;
 	   float: left;
 	   width: 2px;
 	   height:120px;
-	   
+     stroke-linecap:round;
 	   position: relative; 
 }
 .line17{
 	   float: left;
 	   width: 2px;
 	   height:120px;
-	   
+	   stroke-linecap:round;
 	   position: relative; 
 }
 .line19{
 	   float: left;
 	   width: 40px;
 	   height:2px;
-	   
+	   stroke-linecap:round;
 	   
 	   position: relative; 
 }
@@ -3720,13 +3728,13 @@ margin-top:-123px;
 	   width: 2px;
 	   height:60px;
 	   
-	   
+	   stroke-linecap:round;
 	   position: relative; 
 }
 .line21{
 	   float: left;
 	   width: 40px;
 	   height:2px;
-	   
+	   stroke-linecap:round;
 	   position: relative; 
 }
